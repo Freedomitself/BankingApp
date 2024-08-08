@@ -1,0 +1,53 @@
+.navBar {
+    display: flex;
+    width: 80vw;
+    padding: 20px 34px;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 100px;
+    border: 1px solid var(--grey-15, #262626);
+    background: var(--grey-11, #1C1C1C);
+    margin: 0 auto;
+}
+
+.logoContainer {
+    display: flex;
+    width: 155.833px;
+    justify-content: center;
+    align-items: center;
+    gap: 4.167px;
+    flex-shrink: 0;
+}
+
+.mainContent>span {
+    /* display: flex; */
+    align-items: center;
+    gap: 26px;
+    color: var(--absolute-white, #FFF);
+    font-family: Lexend;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    /* 27px */
+}
+
+.home-btn,
+.careers-btn,
+.about-btn,
+.Security-btn,
+.signin-btn {
+    border: 0px;
+    background: var(--grey-11);
+}
+
+.login-btn {
+    color: #000;
+    background: #CAFF33;
+    border: none;
+    font-size: 12px;
+    display: inline-block;
+    text-align: center;
+    padding: 10px 15px;
+    border-radius: 25px;
+}

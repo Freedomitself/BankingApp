@@ -1,0 +1,35 @@
+#root {
+  max-width: 1920px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  --Absolute-White: "#fff";
+  --Absolute-Black: "#000";
+  --Green-60: "#CAFF33";
+  --Green-65: "#D1FF4D";
+  --Green-70: "#D8FF66";
+  --Green-80: "#E5FF99";
+  --Green-90: "#F2FFCC";
+  --Green-95: "#F8FFE5";
+  --Green-97: "#FBFFF0";
+  --Green-99: "#FEFFFA";
+  --White-90: "#E4E4E7";
+  --White-95: "#F1F1F3";
+  --White-97: "#F7F7F8";
+  --White-99: "#FCFCFD";
+  --Gray-10: "#1A1A1A";
+  --Gray-11: "#1C1C1C";
+  --Gray-15: "#262626";
+  --Gray-20: "#333333";
+  --Gray-30: "#4C4C4D";
+  --Gray-35: "#59595A";
+  --Gray-40: "#656567";
+  --Gray-60: "#98989A";
+  --Gray-70: "#B3B3B3";
+  --Gray-75: "#BFBFBF";
+}
+
+.smallText{
+  font-size: 18px;
+  color: var('Gray75')
+}
