@@ -1,17 +1,11 @@
 import './App.css'
-import Footer from './Component/Footer/Footer'
-import Navbar from './Component/Navbar/Navbar'
-import Signup from './Component/Signup/Signup'
-import Testimoni from './Component/Testimoni/Testimoni'
+import SignupPage from './Component/SignupPage/SignupPage'
 
 function App() {
 
   return (
     <>
-      <Navbar />
-      <Signup />
-      <Testimoni />
-      <Footer />
+      <SignupPage />
     </>
   )
 }

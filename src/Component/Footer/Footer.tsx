@@ -21,9 +21,9 @@ const Footer = () => {
                     </span>
                 </div>
                 <div className='contact-address'>
-                    <span><IoMdMail />hello@skillbirdge.com</span>
-                    <span><FaPhone />+91 91813 23 2309</span>
-                    <span><FaLocationDot />Somewhere in the World</span>
+                    <span><IoMdMail /> aminubill@gmail.com</span>
+                    <span><FaPhone /> +234 9035 251 372</span>
+                    <span><FaLocationDot /> Somewhere in the World</span>
                 </div>
                 <div className='socials-access'>
                     <span className='social-logo'>

@@ -1,0 +1,45 @@
+h1 {
+    text-align: left;
+    display: flex;
+    gap: 10px;
+    margin: 0px;
+}
+
+span {
+    color: #fff;
+}
+
+.lorem-div {
+    display: flex;
+}
+
+p {
+    width: 40vw;
+    text-align: left;
+}
+
+.for-btn {
+    border: 1px solid #262626;
+    border-radius: 25px;
+    margin: auto;
+}
+
+.for-btn button {
+    margin: 10px;
+    padding: 10px;
+    column-gap: 5px;
+}
+
+.for-btn button:nth-child(1) {
+    color: #000;
+    background-color: #caff33;
+    border: none;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.for-btn button:nth-child(2) {
+    color: #fff;
+    border: none;
+    background-color: #1a1a1a;
+}
