@@ -39,6 +39,48 @@
 .signin-btn {
     border: 0px;
     background: var(--grey-11);
+    margin: auto;
+    cursor: pointer;
+}
+
+.home-btn:hover {
+    border: #262626;
+    border-radius: 20px;
+    background-color: #262626;
+    padding: 10px;
+    color: #CAFF33
+}
+
+.careers-btn:hover {
+    border: #262626;
+    border-radius: 20px;
+    background-color: #262626;
+    padding: 10px;
+    color: #CAFF33;
+}
+
+.about-btn:hover {
+    border: #262626;
+    border-radius: 20px;
+    background-color: #262626;
+    padding: 10px;
+    color: #CAFF33;
+}
+
+.Security-btn:hover {
+    border: #262626;
+    border-radius: 20px;
+    background-color: #262626;
+    padding: 10px;
+    color: #CAFF33;
+}
+
+.signin-btn:hover {
+    border: #262626;
+    border-radius: 20px;
+    background-color: #262626;
+    padding: 10px;
+    color: #CAFF33;
 }
 
 .login-btn {
@@ -50,4 +92,5 @@
     text-align: center;
     padding: 10px 15px;
     border-radius: 25px;
+    cursor: pointer;
 }

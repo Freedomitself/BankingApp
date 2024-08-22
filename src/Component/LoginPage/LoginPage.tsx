@@ -1,14 +1,15 @@
 
-import Signup from "../Signup/Signup";
+import Login from "../Login/Login";
 import Testimoni from "../Testimoni/Testimoni";
 
-const SignupPage = () => {
+
+const LoginPage = () => {
     return (
         <>
-            <Signup />
+            <Login />
             <Testimoni />
         </>
     );
 }
 
-export default SignupPage;
+export default LoginPage;
